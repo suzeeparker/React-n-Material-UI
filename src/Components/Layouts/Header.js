@@ -6,7 +6,7 @@ export default ({ muscles, onExerciseCreate }) =>
   <AppBar position="static">
     <Toolbar>
       <Typography variant="headline" color="inherit" style={{flex: 1}}>
-        Exercise Database
+        Exercise Database Copy
       </Typography>
 
       <CreateDialog

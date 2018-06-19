@@ -10,6 +10,12 @@ export const exercises = [
     muscles: 'shoulders'
   },
   {
+    id: 'pull-ups',
+    title: 'Pull Ups',
+    description: 'Back and biceps exercise...',
+    muscles: 'arms'
+  },
+  {
     id: 'dips',
     title: 'Dips',
     description: 'Triceps exercise...',
